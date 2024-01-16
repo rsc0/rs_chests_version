@@ -1,0 +1,1 @@
+# rs_chests_version
